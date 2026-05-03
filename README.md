@@ -39,7 +39,9 @@
 ## Структура проекта
 src/
 ├── Main.java
+
 ├── model/
+
 │   ├── User.java
 │   ├── Product.java
 │   ├── Transaction.java
