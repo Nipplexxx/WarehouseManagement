@@ -37,11 +37,11 @@
   Пароль: `1QA2WS`
 
 ## Структура проекта
+
+```plaintext
 src/
 ├── Main.java
-
 ├── model/
-
 │   ├── User.java
 │   ├── Product.java
 │   ├── Transaction.java
@@ -55,7 +55,8 @@ src/
 │   ├── OutcomeForm.java
 │   └── HistoryForm.java
 └── util/
-└── Constants.java
+    └── Constants.java
+
 textДанные сохраняются в файлы рядом с программой:
 - `users.txt`
 - `products.txt`
