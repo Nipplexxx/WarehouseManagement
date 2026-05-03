@@ -61,4 +61,3 @@ textДанные сохраняются в файлы рядом с програ
 - `users.txt`
 - `products.txt`
 - `transactions.txt`
----
